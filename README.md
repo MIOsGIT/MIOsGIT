@@ -130,7 +130,7 @@
   </tr>
   <tr>
     <td align="center"><strong>동의대학교</strong></td>
-    <td align="center">학부</td>
+    <td align="center">응용소프트웨어공학과 (2024.03-현재)</td>
   </tr>
   <tr>
     <td align="center"><strong>동의대학교 교수학습개발센터</strong></td>
