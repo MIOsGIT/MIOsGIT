@@ -8,19 +8,23 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" valign="top" width="50%">
-      <h3><a href="https://github.com/MIOsGIT/kurly">🛒 kurly</a></h3>
-      <p><strong>회원·상품 관리 API</strong> · 백엔드 스터디</p>
-      <p>JWT 인증 · 요청 데이터 검증 · Swagger 문서화<br />
-      상품 상세 조회의 판매자 정보 연동 및 오류 응답 수정</p>
-      <p><code>TypeScript</code> <code>NestJS</code> <code>TypeORM</code> <code>MariaDB</code></p>
+    <td align="center" valign="middle" width="50%">
+      <div>
+        <strong><a href="https://github.com/MIOsGIT/kurly">🛒 kurly</a></strong><br /><br />
+        <strong>회원·상품 관리 API</strong> · 백엔드 스터디<br /><br />
+        JWT 인증 · 요청 데이터 검증 · Swagger 문서화<br />
+      상품 상세 조회의 판매자 정보 연동 및 오류 응답 수정<br /><br />
+        <code>TypeScript</code> <code>NestJS</code> <code>TypeORM</code> <code>MariaDB</code>
+      </div>
     </td>
-    <td align="center" valign="top" width="50%">
-      <h3><a href="https://github.com/MIOsGIT/CheckMyClass">🏫 CheckMyClass</a></h3>
-      <p><strong>강의실 조회·예약 웹사이트</strong> · 팀 프로젝트</p>
-      <p>로그인·회원가입 기능 수정<br />
-      회원가입 폼과 PHP 처리 코드 연결 · DB 이름 통일</p>
-      <p><code>PHP</code> <code>MySQL</code> <code>HTML</code> <code>CSS</code></p>
+    <td align="center" valign="middle" width="50%">
+      <div>
+        <strong><a href="https://github.com/MIOsGIT/CheckMyClass">🏫 CheckMyClass</a></strong><br /><br />
+        <strong>강의실 조회·예약 웹사이트</strong> · 팀 프로젝트<br /><br />
+        로그인·회원가입 기능 수정<br />
+      회원가입 폼과 PHP 처리 코드 연결 · DB 이름 통일<br /><br />
+        <code>PHP</code> <code>MySQL</code> <code>HTML</code> <code>CSS</code>
+      </div>
     </td>
   </tr>
 </table>
@@ -29,35 +33,43 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" valign="top" width="50%">
-      <h3><a href="https://github.com/MIOsGIT/Checklist-2026">🗓️ Checklist-2026</a></h3>
-      <p><strong>개인 학습 플래너</strong></p>
-      <p>월별 공부 계획 · 할 일 진행률 · 학습일지<br />
-      브라우저에 학습일지 저장</p>
-      <p><code>React</code> <code>JavaScript</code></p>
+    <td align="center" valign="middle" width="50%">
+      <div>
+        <strong><a href="https://github.com/MIOsGIT/Checklist-2026">🗓️ Checklist-2026</a></strong><br /><br />
+        <strong>개인 학습 플래너</strong><br /><br />
+        월별 공부 계획 · 할 일 진행률 · 학습일지<br />
+      브라우저에 학습일지 저장<br /><br />
+        <code>React</code> <code>JavaScript</code>
+      </div>
     </td>
-    <td align="center" valign="top" width="50%">
-      <h3><a href="https://github.com/MIOsGIT/AScode-scraper">📦 AScode-scraper</a></h3>
-      <p><strong>온라인 저지 제출 코드 백업 도구</strong></p>
-      <p>정답 제출 코드 자동 선별<br />
-      언어별 확장자로 저장 및 ZIP 다운로드</p>
-      <p><code>Python</code> <code>Flask</code></p>
+    <td align="center" valign="middle" width="50%">
+      <div>
+        <strong><a href="https://github.com/MIOsGIT/AScode-scraper">📦 AScode-scraper</a></strong><br /><br />
+        <strong>온라인 저지 제출 코드 백업 도구</strong><br /><br />
+        정답 제출 코드 자동 선별<br />
+      언어별 확장자로 저장 및 ZIP 다운로드<br /><br />
+        <code>Python</code> <code>Flask</code>
+      </div>
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="50%">
-      <h3><a href="https://github.com/MIOsGIT/Nest.js-Study">📚 Nest.js-Study</a></h3>
-      <p><strong>회원·게시판 API 스터디</strong></p>
-      <p>모듈별 API 구성 · CRUD 실습<br />
-      회원 및 게시판 비동기 처리 수정</p>
-      <p><code>NestJS</code> <code>TypeScript</code> <code>TypeORM</code></p>
+    <td align="center" valign="middle" width="50%">
+      <div>
+        <strong><a href="https://github.com/MIOsGIT/Nest.js-Study">📚 Nest.js-Study</a></strong><br /><br />
+        <strong>회원·게시판 API 스터디</strong><br /><br />
+        모듈별 API 구성 · CRUD 실습<br />
+      회원 및 게시판 비동기 처리 수정<br /><br />
+        <code>NestJS</code> <code>TypeScript</code> <code>TypeORM</code>
+      </div>
     </td>
-    <td align="center" valign="top" width="50%">
-      <h3><a href="https://github.com/MIOsGIT/Baekjoon">💻 Baekjoon</a></h3>
-      <p><strong>알고리즘·자료구조 풀이 기록</strong></p>
-      <p>큐·스택 활용 문제 풀이<br />
-      프린터 큐 · 요세푸스 문제 등</p>
-      <p><code>C++</code> <code>STL</code></p>
+    <td align="center" valign="middle" width="50%">
+      <div>
+        <strong><a href="https://github.com/MIOsGIT/Baekjoon">💻 Baekjoon</a></strong><br /><br />
+        <strong>알고리즘·자료구조 풀이 기록</strong><br /><br />
+        큐·스택 활용 문제 풀이<br />
+      프린터 큐 · 요세푸스 문제 등<br /><br />
+        <code>C++</code> <code>STL</code>
+      </div>
     </td>
   </tr>
 </table>
@@ -123,7 +135,7 @@
   <tr>
     <td align="center"><strong>동의대학교 교수학습개발센터</strong></td>
     <td align="center"><strong>국가근로장학생</strong> · 2026.03–현재<br />
-    사이버 강의 촬영 보조 · 크로마키 합성, 마이크 음량 조절, 영상 설정</td>
+    사이버 강의 촬영 보조</td>
   </tr>
   <tr>
     <td align="center"><strong>카이스트 앱창업 프로그램</strong></td>
